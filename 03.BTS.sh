@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo osmo-bts-trx -c /home/lm/testnet/osmo-bts.cfg
+sudo osmo-bts-trx -c /home/sdr/osmobts.cfg
