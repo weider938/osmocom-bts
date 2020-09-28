@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo osmo-nitb -c /home/lm/testnet/openbsc.cfg
+sudo osmo-nitb -c /home/sdr/openbsc.cfg
